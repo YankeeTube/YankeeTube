@@ -31,6 +31,10 @@
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat&logo=alpinelinux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+### Web Platform
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
+![Web Worker](https://img.shields.io/badge/Web_Worker-000000?style=flat&logo=webworkers&logoColor=white)
+
 
 ### Cloud Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -39,23 +43,29 @@
 
 ## 🚀 Personal Live Services
 
-- **[maple.curma.cc](https://maple.curma.cc)**  
+- **[메이플커마](https://maple.curma.cc)**  
   MapleStory character avatar simulation and share service
 
-- **[df.curma.cc](https://df.curma.cc)**  
+- **[던파커마](https://df.curma.cc)**  
   D&F character avatar share service
 
-- **[loa.curma.cc](https://loa.curma.cc)**  
+- **[로아커마](https://loa.curma.cc)**  
   LostArk character avatar and customize share service
 
-- **[redeem.curma.cc](https://redeem.curma.cc)**  
+- **[리딤커마](https://redeem.curma.cc)**  
   Game Redeem code share service
 
-- **[dfmin.com](https://dfmin.com)**  
+- **[던파민](https://dfmin.com)**  
   D&F character increment fame find service
 
 - **[tools.tlnd.cc](https://tools.tlnd.cc)**  
   multiple utility tools store without server
+
+- **[nsfw.tlnd.cc](https://nsfw.tlnd.cc)**  
+  NSFW Image check only client service (web worker + tensorflow.js + mobilenet model)
+
+- **[prompt.tlnd.cc](https://prompt.tlnd.cc)**  
+  Novel ai or Stable diffusion ai with prompt png file header extract **PROMPT**
 
 
 ## Client Program
